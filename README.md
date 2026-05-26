@@ -65,7 +65,7 @@ src/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/book-management.git
+git clone https://github.com/Rohitchouhan23/book-management-system.git
 cd book-management
 ```
 
