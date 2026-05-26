@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 📚 BookShelf — Book Management System
 
 A React + Tailwind CSS Book Management app with full CRUD operations.
@@ -36,5 +36,5 @@ A React + Tailwind CSS Book Management app with full CRUD operations.
    npm run dev
 
 ## Live Demo
-<your-vercel-url>
-=======
+
+https://book-management-system-ldwy.vercel.app
